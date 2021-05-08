@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bsamanvitha
-- 👀 I’m interested in software dev, ML, and research
+- 👀 I’m interested in software dev, ML, security, and research
 - 🌱 I’m currently learning advanced python
 - 📫 Email is the best way to reach me 
 
